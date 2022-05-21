@@ -34,6 +34,30 @@
     
     <item>
       <title>Прошлая неделя</title>
+      <link>https://example.com/post/post-4/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Прошлая неделя&lt;/p&gt;
+&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
+&lt;p&gt;я все еще болею, пропустила две пары французского, переживаю. но зато было много актива&amp;hellip; была оргом на доде, ходила на ночь в универе, сфоткалась с ректором. люблю ффмиен.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://example.com/post/post-5/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-5/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Создание презентаций&lt;/p&gt;
+&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
+&lt;p&gt;Презентации это круто! их очень интересно делать, нужно искать красивые картинки, выбирать дизайны, макеты&amp;hellip; в общем, презентациям я ставлю лайк.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошлая неделя</title>
       <link>https://example.com/post/post-2/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post-2/</guid>
